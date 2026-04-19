@@ -1,6 +1,6 @@
 # cs-portfolio
-CS 210 Portfolio Projects
-This repository contains two C++ projects completed in CS 210: a Calculator program and a Clock program.
+CS Portfolio Projects
+This repository contains two C++ projects completed
 
 These projects demonstrate my foundational understanding of C++ programming, including control flow, modular design, formatted output, and problem-solving through structured logic.
 The Calculator program was designed to perform mathematical operations based on user input.
