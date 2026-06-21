@@ -1,4 +1,4 @@
-# CS 210 Portfolio
+# CS Portfolio
 CS-210 Portfolio Projects
 This repository contains two C++ projects completed
 
