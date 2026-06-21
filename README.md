@@ -27,3 +27,13 @@ If I could improve one part, I would spend more time refining the architecture a
 I focused on the user’s needs by making sure the system supports multiple players and prevents duplicate names. This is important because it keeps the experience consistent and avoids errors during gameplay.
 
 When designing the software, I focused on breaking the problem down into smaller parts and using object oriented principles. In the future, I would continue using design patterns and planning things out ahead of time before coding to make development smoother.
+
+## CS 250 Reflection
+
+This project focused on using the Scrum Agile framework to develop software for SNHU Travel. Throughout the course I worked through the roles of Product Owner Scrum Master tester and developer which helped me better understand the software development life cycle.
+
+Creating user stories helped me focus on the needs of the customer before beginning development. Breaking requirements into smaller stories made it easier to understand what features were needed and how they would provide value to the user.
+
+When developing programs I like to start by understanding the requirements and then breaking the work into smaller tasks. This course showed me the importance of planning testing and making changes incrementally instead of trying to complete everything at once. In the future I would continue using user stories sprint planning and regular testing to keep projects organized and adaptable.
+
+Being a good team member in software development means communicating clearly completing assigned work and supporting the rest of the team. Throughout this course I learned that successful software development depends on collaboration between Product Owners Scrum Masters testers and developers. Working together and being open to feedback helps create better software and better outcomes for the customer.
