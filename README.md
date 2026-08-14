@@ -37,3 +37,15 @@ Creating user stories helped me focus on the needs of the customer before beginn
 When developing programs I like to start by understanding the requirements and then breaking the work into smaller tasks. This course showed me the importance of planning testing and making changes incrementally instead of trying to complete everything at once. In the future I would continue using user stories sprint planning and regular testing to keep projects organized and adaptable.
 
 Being a good team member in software development means communicating clearly completing assigned work and supporting the rest of the team. Throughout this course I learned that successful software development depends on collaboration between Product Owners Scrum Masters testers and developers. Working together and being open to feedback helps create better software and better outcomes for the customer.
+
+# CS 300 Reflection
+
+The projects in this course focused on using data structures to organize and work with course information for an academic advising program. In Project One, I compared vectors, hash tables, and binary search trees to determine the advantages, disadvantages, and runtime of each. In Project Two, I used a hash table to build the advising program and allow users to load, search, and display course information.
+
+I approached the projects by breaking the problem into smaller parts and looking at how each data structure handled operations like storing, searching, and sorting data. This helped me understand why choosing the right data structure is important and how that choice can affect the performance of a program.
+
+One of the challenges I had was understanding how the different data structures worked when actually implementing them in C++. Breaking the code into individual functions and using pseudocode before writing the code helped me work through the logic. Testing each part as I went also made it easier to find and correct problems.
+
+These projects changed how I approach designing software because I now think more about how the data will be used before deciding how to store it. The Big O analysis also helped me understand how the performance of a program can change as the amount of data increases.
+
+I also improved how I organize my code by using smaller functions, clear names, and comments where they are helpful. Separating tasks like loading, searching, sorting, and displaying information made the final program easier to read and would make it easier to update later.
