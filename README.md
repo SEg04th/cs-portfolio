@@ -38,7 +38,15 @@ When developing programs I like to start by understanding the requirements and t
 
 Being a good team member in software development means communicating clearly completing assigned work and supporting the rest of the team. Throughout this course I learned that successful software development depends on collaboration between Product Owners Scrum Masters testers and developers. Working together and being open to feedback helps create better software and better outcomes for the customer.
 
-# CS 300 Reflection
+## CS 255 Reflection
+
+The DriverPass project focused on designing a system for a driving school that wanted to provide online training and driving lesson scheduling. The system needed to allow customers to create accounts, take practice tests, schedule lessons, and track their progress while also giving employees tools to manage the system.
+I think I did well taking the client's requirements and turning them into a system design. Creating the UML diagrams helped me understand how the different users and functions of the system connect and work together.
+If I could revise one part of the project, I would improve some of my UML diagrams. As I worked through the course I became more comfortable with Lucidchart and UML, so I would organize some of the diagrams differently and make the connections easier to follow.
+I interpreted the user's needs by looking at what customers and employees needed to accomplish with the system and turning those needs into requirements. Considering the user is important because the system needs to solve their actual problems and be easy for them to use.
+When designing software I like to start by understanding the requirements and then break the system into smaller parts. In the future I would continue using UML diagrams and other planning tools to organize the system before beginning development.
+
+## CS 300 Reflection
 
 The projects in this course focused on using data structures to organize and work with course information for an academic advising program. In Project One, I compared vectors, hash tables, and binary search trees to determine the advantages, disadvantages, and runtime of each. In Project Two, I used a hash table to build the advising program and allow users to load, search, and display course information.
 
