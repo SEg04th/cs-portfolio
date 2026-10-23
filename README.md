@@ -61,3 +61,15 @@ One of the challenges I had was understanding how the different data structures 
 These projects changed how I approach designing software because I now think more about how the data will be used before deciding how to store it. The Big O analysis also helped me understand how the performance of a program can change as the amount of data increases.
 
 I also improved how I organize my code by using smaller functions, clear names, and comments where they are helpful. Separating tasks like loading, searching, sorting, and displaying information made the final program easier to read and would make it easier to update later.
+
+## CS 320 Reflection
+
+The projects in this course focused on software testing, automation, and quality assurance. In Project One, I developed and tested contact, task, and appointment services using Java and JUnit. In Project Two, I reviewed my testing approach and reflected on how well my tests met the requirements.
+
+I learned that keeping software functional and secure starts with understanding the requirements and testing the code regularly. I used JUnit to check valid and invalid inputs, character limits, and how the program handled errors. All my tests passed, and each service reached over 80% code coverage. This helped me understand that even when code works, there can still be problems that need additional testing.
+
+When interpreting user needs, I try to break the requirements into smaller tasks that can be developed and tested individually. For example, the contact service required specific information such as names, phone numbers, and addresses, along with restrictions on what users could enter. I used those requirements to design the classes and create tests to make sure the program behaved as expected.
+
+My approach to designing software is to keep the code organized, simple, and easy to maintain. I start by reviewing the requirements, building the main functions, and testing each part as I go. Using separate classes for the services and their tests helped keep everything organized and made it easier to find problems.
+
+Overall, this course helped me understand why testing should be part of the entire development process rather than something done at the end. I also learned that automated testing saves time, but it still requires careful planning and human review to make sure the right things are being tested.
